@@ -1,0 +1,423 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7b2afaab-4445-4e40-9301-76f41cbf1bf2")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 142.24 73.66) (xy 144.78 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ed9a248-7d12-410d-859d-601411bcdab9")
+	)
+	(wire
+		(pts
+			(xy 140.97 71.12) (xy 140.97 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4185c609-7bfa-4ead-810b-3f2edb9f4146")
+	)
+	(wire
+		(pts
+			(xy 139.7 76.2) (xy 142.24 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b27c5d2-bc53-40ca-a9a0-21a23df56eaa")
+	)
+	(bus
+		(pts
+			(xy 119.38 71.12) (xy 119.38 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef21c66-14ee-4e7c-a2de-9a14adcf1632")
+	)
+	(bus
+		(pts
+			(xy 121.92 64.77) (xy 144.78 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cf2b704-c5f4-490c-905b-84cf4073a310")
+	)
+	(bus
+		(pts
+			(xy 144.78 59.69) (xy 116.84 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ced1466-d741-4295-b285-1dd651794843")
+	)
+	(wire
+		(pts
+			(xy 144.78 71.12) (xy 140.97 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac114a6c-b994-45ed-84c9-57e0d49d2398")
+	)
+	(wire
+		(pts
+			(xy 140.97 73.66) (xy 139.7 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6b19dd2-30f8-4c45-8e8d-840c6cea24ca")
+	)
+	(bus
+		(pts
+			(xy 119.38 62.23) (xy 144.78 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceeef4a3-b48f-455b-aa96-f139a44b497d")
+	)
+	(bus
+		(pts
+			(xy 116.84 59.69) (xy 116.84 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d56144ac-f8f4-4246-bd1e-86ce492b6fdc")
+	)
+	(bus
+		(pts
+			(xy 121.92 71.12) (xy 121.92 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4f1686a-0110-4659-994e-3d1671e67d95")
+	)
+	(wire
+		(pts
+			(xy 142.24 76.2) (xy 142.24 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef1dd203-6853-4d8d-a393-b50864ecd039")
+	)
+	(sheet
+		(at 101.6 71.12)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00afd1e6-7195-4ad0-96eb-9ad93d4e9b77")
+		(property "Sheetname" "ESP32"
+			(at 101.6 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32.kicad_sch"
+			(at 101.6 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VSYNC" output
+			(at 139.7 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e50c73f9-44e6-43c0-9e17-fdd3b3e9b855")
+		)
+		(pin "RED" output
+			(at 116.84 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bf1814da-8806-44aa-b775-36cb37221d3f")
+		)
+		(pin "GREEN" output
+			(at 119.38 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "087f71f3-e091-413c-92fb-f92e4b555496")
+		)
+		(pin "BLUE" output
+			(at 121.92 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c7bd3073-419c-4c40-93a0-97152ac37c77")
+		)
+		(pin "HSYNC" output
+			(at 139.7 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "806446ea-e9c9-4622-81da-b4b0ca3b5529")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 111.76)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f8cac9a-e4ff-4a7f-ac59-fb766cc6c574")
+		(property "Sheetname" "Keyboard_USB_Serial"
+			(at 144.78 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "keyboard_usb.kicad_sch"
+			(at 144.78 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 55.88)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2477136f-aa73-44a8-9b84-47d881b897da")
+		(property "Sheetname" "Video"
+			(at 144.78 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video.kicad_sch"
+			(at 144.78 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RED" input
+			(at 144.78 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3ad8c6ae-f7d5-4729-ae96-a22be90e1abc")
+		)
+		(pin "HSYNC" input
+			(at 144.78 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "be7066e6-3f3b-4805-93a0-bb2b949ba048")
+		)
+		(pin "VSYNC" input
+			(at 144.78 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5f6ecd2f-3737-49eb-b086-d62eddc8b405")
+		)
+		(pin "GREEN" input
+			(at 144.78 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7add3a61-1afd-41ff-b48c-24837f1dc807")
+		)
+		(pin "BLUE" input
+			(at 144.78 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ff4e5393-e113-4591-a744-67f2d888ff5a")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 71.12)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "567bb680-a914-48b8-97a8-65d13978b3d1")
+		(property "Sheetname" "EZ80"
+			(at 60.96 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ez80.kicad_sch"
+			(at 60.96 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 83.82)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6892b034-8017-42e7-b201-a18208ddf3e8")
+		(property "Sheetname" "Audio"
+			(at 144.78 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "audio.kicad_sch"
+			(at 144.78 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

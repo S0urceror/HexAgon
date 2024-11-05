@@ -1,0 +1,5338 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7ff61bfe-3baa-4314-9fe6-dadd94e803b8")
+	(paper "A4")
+	(lib_symbols
+		(symbol "AgonLight2_Rev_B:GG0402052R542P"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TVS"
+				(at -1.27 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "GG0402052R542P"
+				(at -10.16 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -0.635 0 90)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Diode_* D-Pak_TO252AA *SingleDiode *SingleDiode* *_Diode_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GG0402052R542P_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -0.635) (xy -1.524 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -0.635) (xy -1.27 0.635)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy -1.016 1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.667 1.016) (xy -1.143 0) (xy -2.667 -1.016) (xy -2.667 1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.667 1.016) (xy -1.143 0) (xy -2.667 -1.016) (xy -2.667 1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.127 -1.016) (xy -1.397 0) (xy 0.127 1.016) (xy 0.127 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.127 -1.016) (xy -1.397 0) (xy 0.127 1.016) (xy 0.127 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "GG0402052R542P_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "IO1"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "IO2"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AgonLight2_Rev_B:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 90)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* Resistor_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start 2.54 -1.016)
+					(end -2.54 1.016)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AgonLight2_Rev_B:VGA15-F(CD0515S21J0)"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "VGA"
+				(at 0 25.4 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "VGA15-F(CD0515S21J0)"
+				(at 2.54 -25.4 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "OLIMEX_Connectors-FP:VGA15-F(CD0515S21J0)"
+				(at 5.08 -30.48 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VGA15-F(CD0515S21J0)_0_1"
+				(rectangle
+					(start -5.08 22.86)
+					(end 7.62 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "VGA15-F(CD0515S21J0)_1_1"
+				(pin bidirectional line
+					(at -7.62 20.32 0)
+					(length 2.54)
+					(name "Red"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -5.08 0)
+					(length 2.54)
+					(name "ID0/RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -7.62 0)
+					(length 2.54)
+					(name "ID1/SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -10.16 0)
+					(length 2.54)
+					(name "HSync"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -12.7 0)
+					(length 2.54)
+					(name "VSync"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 -15.24 0)
+					(length 2.54)
+					(name "ID3/SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -17.78 0)
+					(length 2.54)
+					(name "Shield1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -20.32 0)
+					(length 2.54)
+					(name "Shield2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 17.78 0)
+					(length 2.54)
+					(name "Green"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 15.24 0)
+					(length 2.54)
+					(name "Blue"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -7.62 12.7 0)
+					(length 2.54)
+					(name "ID2/RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 10.16 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 7.62 0)
+					(length 2.54)
+					(name "Red_RTN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 5.08 0)
+					(length 2.54)
+					(name "Green_RTN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "Blue_RTN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "Key/PWR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 210.82 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02747646-4373-4e14-99a6-290b719ce7dd")
+	)
+	(junction
+		(at 111.76 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ce5eab4-bfcd-4ee2-af80-e2e337577f39")
+	)
+	(junction
+		(at 191.77 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0de46135-2431-457d-a2be-d987fb4a14b4")
+	)
+	(junction
+		(at 196.85 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fafff69-5999-4d66-8946-ff302d5fdbfc")
+	)
+	(junction
+		(at 111.76 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13088ee1-100a-4b7b-947d-a224880248e7")
+	)
+	(junction
+		(at 210.82 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "149069f2-5438-458c-8f30-8ef0d09e458d")
+	)
+	(junction
+		(at 96.52 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18c7c2ab-1419-44a5-befc-f90f359e7023")
+	)
+	(junction
+		(at 201.93 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26ee8b0a-b3a1-47a9-8ee9-22810437118b")
+	)
+	(junction
+		(at 104.14 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ff4ee21-ef81-4de5-a463-6defd164530d")
+	)
+	(junction
+		(at 104.14 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37ef018f-f628-4a68-82bd-63d745a06b84")
+	)
+	(junction
+		(at 210.82 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "439d1025-321f-4fc5-94b8-24fa9efa0bae")
+	)
+	(junction
+		(at 196.85 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5246a16e-a094-4d2e-8769-6dc70078db63")
+	)
+	(junction
+		(at 96.52 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dbf41ca-6c69-4da0-af7a-159bfa2e27dd")
+	)
+	(junction
+		(at 88.9 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e6ff666-fa53-480c-85b3-4ad446cb4027")
+	)
+	(junction
+		(at 88.9 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d961eaf-aac7-4750-8bf7-632ee75fc580")
+	)
+	(junction
+		(at 88.9 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ef39b02-3ec9-4d24-9e9f-13effb395120")
+	)
+	(junction
+		(at 201.93 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9006a5ec-dcb2-4767-b530-bdd7300e0bbd")
+	)
+	(junction
+		(at 96.52 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93e034f1-4dce-4f6d-8189-e94821f052f5")
+	)
+	(junction
+		(at 210.82 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9595116d-6498-40a4-a8ed-f5ab922a2311")
+	)
+	(junction
+		(at 104.14 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95ad8f4e-f671-4bbc-881d-bd7362ca0be8")
+	)
+	(junction
+		(at 81.28 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "988c6734-7288-4a3c-8f50-6f412ff81cb2")
+	)
+	(junction
+		(at 119.38 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "995b4ebd-3f46-4718-9a0e-ea3b0abaf6d3")
+	)
+	(junction
+		(at 119.38 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0eeac51-99ef-4d5a-937f-41c8de09f2a6")
+	)
+	(junction
+		(at 196.85 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a31ce2bf-0cd0-4618-b6ea-d84b4a88a329")
+	)
+	(junction
+		(at 191.77 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae3c2667-44e5-45e4-9399-f5d8a576d545")
+	)
+	(junction
+		(at 201.93 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b108830b-fb43-4aed-9614-8f5d52bd8cab")
+	)
+	(junction
+		(at 196.85 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf78e29d-aa85-4b89-82d6-ba603aa4cb54")
+	)
+	(junction
+		(at 210.82 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d198a4fe-df24-4b35-8b04-e69c406ac1f0")
+	)
+	(junction
+		(at 201.93 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "daeae775-915c-44f4-b0a9-0ae7b4394bff")
+	)
+	(junction
+		(at 119.38 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1ec9baa-2a6c-4a54-8061-c65d87906ecf")
+	)
+	(junction
+		(at 111.76 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0a5a600-be3a-44f7-b365-1886326f3651")
+	)
+	(no_connect
+		(at 219.71 97.79)
+		(uuid "21f90db9-72c9-4d28-8e61-3b5caf7213f5")
+	)
+	(no_connect
+		(at 219.71 87.63)
+		(uuid "5b449976-e81b-4d36-8556-0fb261219914")
+	)
+	(no_connect
+		(at 219.71 82.55)
+		(uuid "5cfb4ee1-a5c8-409d-b0f5-0526497f22d2")
+	)
+	(no_connect
+		(at 219.71 90.17)
+		(uuid "627e1e36-b25d-4852-a8f5-c1011954825e")
+	)
+	(no_connect
+		(at 219.71 69.85)
+		(uuid "8108e4c5-b7c4-4bfd-9d9b-008164a11b96")
+	)
+	(bus_entry
+		(at 109.22 133.35)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fa33612-22e1-490d-af12-5653ab49bc28")
+	)
+	(bus_entry
+		(at 93.98 31.75)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4718a7d9-1c58-4fa3-849d-438989e80653")
+	)
+	(bus_entry
+		(at 93.98 133.35)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9c3f31-bd60-4479-8b69-f6d1fa6302f4")
+	)
+	(bus_entry
+		(at 86.36 133.35)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f08b14b-e6bc-4ec8-8a44-e5c52e73a76c")
+	)
+	(bus_entry
+		(at 116.84 31.75)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "718e026a-86e8-4ffb-a074-67ae426c0771")
+	)
+	(bus_entry
+		(at 101.6 133.35)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d75253-e993-4ccd-aa67-1d5f77e0b867")
+	)
+	(bus_entry
+		(at 116.84 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fbfc22e-22f4-4591-82b9-a581df49505f")
+	)
+	(bus_entry
+		(at 101.6 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83ee17e7-6e8b-49f6-a078-29a19ae9d866")
+	)
+	(bus_entry
+		(at 86.36 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "895ce957-d597-449f-b024-fd2195f8f3d9")
+	)
+	(bus_entry
+		(at 116.84 133.35)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f79372c-48d9-476c-8c89-9348de287895")
+	)
+	(bus_entry
+		(at 109.22 31.75)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95a48bfe-9599-4661-b4ec-1bbe321a841f")
+	)
+	(bus_entry
+		(at 86.36 31.75)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a18eec85-4dc6-4193-a15c-9189b9b025f9")
+	)
+	(bus_entry
+		(at 93.98 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c285d75f-ef03-4472-a62c-ce931ab8b990")
+	)
+	(bus_entry
+		(at 101.6 31.75)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9ed6942-5e60-4403-b8ee-2133de8385ac")
+	)
+	(bus_entry
+		(at 109.22 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eec159a0-a5e9-4194-a4bf-40f80f133b64")
+	)
+	(bus_entry
+		(at 78.74 82.55)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f06d1ff2-2f96-4337-983b-cb673d776fe1")
+	)
+	(bus
+		(pts
+			(xy 86.36 82.55) (xy 93.98 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03b88e85-28c0-4435-bfb6-4b4fa417bb2d")
+	)
+	(wire
+		(pts
+			(xy 147.32 64.77) (xy 196.85 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0594a8ce-427c-4ea5-94b1-bbb6483a97ad")
+	)
+	(wire
+		(pts
+			(xy 73.66 110.49) (xy 71.12 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09e28de8-0c39-4da3-8cc7-96f965107e79")
+	)
+	(wire
+		(pts
+			(xy 96.52 135.89) (xy 96.52 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac3ccc8-35c5-437c-b3fb-fffdf22b3f4f")
+	)
+	(wire
+		(pts
+			(xy 196.85 97.79) (xy 196.85 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d0cd9bc-2290-467d-af28-1fc05ef45c38")
+	)
+	(wire
+		(pts
+			(xy 210.82 102.87) (xy 210.82 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e031b3c-d2cf-4232-a4d9-4680ed5eca27")
+	)
+	(wire
+		(pts
+			(xy 219.71 92.71) (xy 196.85 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f50c729-0efd-46e4-ab68-9418bdb015f1")
+	)
+	(bus
+		(pts
+			(xy 101.6 82.55) (xy 109.22 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1113087c-be18-4277-9690-7da6d5414a51")
+	)
+	(wire
+		(pts
+			(xy 219.71 95.25) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1256a546-0590-4a8d-a53b-423272088b7f")
+	)
+	(wire
+		(pts
+			(xy 201.93 85.09) (xy 210.82 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15ca2e76-5e3c-47aa-8822-2622fbc1e241")
+	)
+	(wire
+		(pts
+			(xy 210.82 80.01) (xy 210.82 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d7341c-e8c7-4a70-91e0-2492947a066f")
+	)
+	(wire
+		(pts
+			(xy 210.82 74.93) (xy 219.71 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cdbd8f8-c850-4bfc-9c65-713b78c903b4")
+	)
+	(wire
+		(pts
+			(xy 191.77 69.85) (xy 191.77 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20fe91d7-757b-45a5-94fd-6ceb0688ebf4")
+	)
+	(wire
+		(pts
+			(xy 210.82 100.33) (xy 219.71 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "231053ea-2e93-47ff-8821-c2faee6de5ce")
+	)
+	(wire
+		(pts
+			(xy 161.29 67.31) (xy 201.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23760993-7f14-4033-a088-339e5886aac2")
+	)
+	(wire
+		(pts
+			(xy 111.76 104.14) (xy 111.76 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "256a78cc-6d31-4f24-9678-0841fb001640")
+	)
+	(wire
+		(pts
+			(xy 96.52 104.14) (xy 96.52 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b4e3e3-41e6-4f66-90f3-b053ea554253")
+	)
+	(bus
+		(pts
+			(xy 109.22 82.55) (xy 116.84 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b6a7e71-4338-4daa-a716-3cb2828d9c23")
+	)
+	(wire
+		(pts
+			(xy 119.38 85.09) (xy 119.38 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e3acef4-bddc-41c5-9992-0868a8288672")
+	)
+	(wire
+		(pts
+			(xy 88.9 135.89) (xy 88.9 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e41d35a-aa00-4d1f-a04e-8c68a4aec0af")
+	)
+	(wire
+		(pts
+			(xy 191.77 85.09) (xy 196.85 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fa19923-39d7-41a7-b49b-f5d99ad6fe09")
+	)
+	(wire
+		(pts
+			(xy 111.76 55.88) (xy 111.76 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33374857-2b7f-4acc-9cb3-e8368798dec9")
+	)
+	(wire
+		(pts
+			(xy 191.77 77.47) (xy 191.77 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3aaa58-7d45-4cf5-a9a1-85572fb96573")
+	)
+	(wire
+		(pts
+			(xy 96.52 34.29) (xy 96.52 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a7fd4f6-562a-44bc-98c2-79cbc953e539")
+	)
+	(wire
+		(pts
+			(xy 196.85 64.77) (xy 219.71 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b16f008-0af3-447b-a924-7a2011821275")
+	)
+	(wire
+		(pts
+			(xy 88.9 85.09) (xy 88.9 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb07e4e-1875-4be6-bb94-1a41379ec781")
+	)
+	(wire
+		(pts
+			(xy 119.38 104.14) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e1ae020-e225-429f-a79b-a3c95d202f71")
+	)
+	(wire
+		(pts
+			(xy 210.82 102.87) (xy 219.71 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42423d63-9095-4deb-b9dd-71313bdbe0e5")
+	)
+	(wire
+		(pts
+			(xy 119.38 163.83) (xy 161.29 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44577f5e-f8c2-4366-b0f7-a517e2f6d1bd")
+	)
+	(wire
+		(pts
+			(xy 210.82 74.93) (xy 210.82 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46f83a4d-0beb-4a2e-88e4-39aec68293b3")
+	)
+	(wire
+		(pts
+			(xy 104.14 55.88) (xy 104.14 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a22fd2c-0bb6-47b7-a246-918244c4ce2d")
+	)
+	(wire
+		(pts
+			(xy 81.28 85.09) (xy 81.28 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b577735-faa6-4ada-99db-7977147f6368")
+	)
+	(wire
+		(pts
+			(xy 104.14 34.29) (xy 104.14 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fde43ca-be15-434c-999b-eaabae6f7cad")
+	)
+	(wire
+		(pts
+			(xy 88.9 55.88) (xy 88.9 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "520ffd36-c03c-44bb-b816-2d54765f4a14")
+	)
+	(bus
+		(pts
+			(xy 86.36 133.35) (xy 93.98 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5227519b-65db-4cd6-b1a0-c28f39791a87")
+	)
+	(wire
+		(pts
+			(xy 161.29 67.31) (xy 161.29 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b65bdd-4a6c-4740-a1ff-a75eaf3ed3f4")
+	)
+	(bus
+		(pts
+			(xy 101.6 133.35) (xy 109.22 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57394a86-cf53-4d4d-b2b7-89fba21294e8")
+	)
+	(wire
+		(pts
+			(xy 196.85 77.47) (xy 196.85 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59fad308-bacb-4790-9ceb-af87bb0b1ff4")
+	)
+	(wire
+		(pts
+			(xy 115.57 76.2) (xy 119.38 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eb6e5fe-5c23-43da-997e-26ece14589ca")
+	)
+	(wire
+		(pts
+			(xy 187.96 85.09) (xy 191.77 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60f849ab-6302-4348-aeb1-fcb1852b156d")
+	)
+	(wire
+		(pts
+			(xy 119.38 55.88) (xy 119.38 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a5c347-e997-4f26-b2fd-a8572b5358ad")
+	)
+	(wire
+		(pts
+			(xy 210.82 85.09) (xy 219.71 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68f37bab-f903-40ff-8fde-2730f5f6a65e")
+	)
+	(wire
+		(pts
+			(xy 104.14 85.09) (xy 104.14 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6aaefb58-18c6-419e-bc9b-aa6b69ae6c78")
+	)
+	(wire
+		(pts
+			(xy 115.57 177.8) (xy 119.38 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bfded77-5410-4aef-beb1-b22a82168948")
+	)
+	(wire
+		(pts
+			(xy 96.52 85.09) (xy 96.52 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753e0d3d-cede-491c-884f-0a6fd92ac98b")
+	)
+	(wire
+		(pts
+			(xy 187.96 111.76) (xy 196.85 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75929670-d13c-42a7-9441-514130ebc4aa")
+	)
+	(wire
+		(pts
+			(xy 88.9 157.48) (xy 88.9 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77a18e3a-48c2-4509-b87a-663cdc1569f0")
+	)
+	(wire
+		(pts
+			(xy 210.82 72.39) (xy 219.71 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a0015bf-f75e-4e10-9a6a-1b02ec8391c6")
+	)
+	(wire
+		(pts
+			(xy 119.38 157.48) (xy 119.38 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d519517-ba7e-4a4a-9008-f4bcd709d961")
+	)
+	(wire
+		(pts
+			(xy 219.71 67.31) (xy 201.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d626960-a919-44bc-a103-d3980c9dc976")
+	)
+	(wire
+		(pts
+			(xy 81.28 163.83) (xy 78.74 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "805612c9-dcbf-40df-ad5a-dc947a16e369")
+	)
+	(wire
+		(pts
+			(xy 201.93 111.76) (xy 210.82 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "874d4edc-2cc7-478b-a915-e30dfa2ed037")
+	)
+	(wire
+		(pts
+			(xy 115.57 125.73) (xy 119.38 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88e83ab0-87dd-4727-b2c4-ed084046c181")
+	)
+	(wire
+		(pts
+			(xy 119.38 34.29) (xy 119.38 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f30c972-50b7-44e3-8eab-0e1b9fa79ab9")
+	)
+	(wire
+		(pts
+			(xy 210.82 100.33) (xy 210.82 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f366347-8d40-43b2-a357-d90b7819f547")
+	)
+	(wire
+		(pts
+			(xy 81.28 104.14) (xy 81.28 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91511425-9a2a-438b-8de0-7bc6858df81d")
+	)
+	(wire
+		(pts
+			(xy 201.93 77.47) (xy 201.93 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92a6992a-986e-470f-84b7-02765193c8a6")
+	)
+	(wire
+		(pts
+			(xy 210.82 77.47) (xy 219.71 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "992bba5c-4f41-4240-a14c-bf179e1c0935")
+	)
+	(bus
+		(pts
+			(xy 93.98 82.55) (xy 101.6 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b3512ec-23c6-41f9-a5fb-283772a8890f")
+	)
+	(wire
+		(pts
+			(xy 119.38 135.89) (xy 119.38 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bc89216-84a5-4ed9-8b65-42aca2c6db26")
+	)
+	(wire
+		(pts
+			(xy 88.9 34.29) (xy 88.9 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d66ada8-0690-475e-a173-0d7b507d5cde")
+	)
+	(wire
+		(pts
+			(xy 196.85 85.09) (xy 201.93 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d7dc0da-f0b5-439a-89fc-ed16d18fd23a")
+	)
+	(wire
+		(pts
+			(xy 210.82 77.47) (xy 210.82 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dae5bb4-94a7-4f83-b556-a121d270be4c")
+	)
+	(bus
+		(pts
+			(xy 74.93 82.55) (xy 78.74 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e172668-576b-42c5-93fb-b56ac37224bb")
+	)
+	(wire
+		(pts
+			(xy 119.38 73.66) (xy 119.38 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a790ba-30f0-4a92-ba84-a3451b4ca740")
+	)
+	(wire
+		(pts
+			(xy 196.85 69.85) (xy 196.85 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4ed1961-2e97-4f4f-b6c4-ba56f0b8fb53")
+	)
+	(wire
+		(pts
+			(xy 119.38 167.64) (xy 119.38 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6fa083a-e47c-40c9-aaca-7f17e9f90665")
+	)
+	(wire
+		(pts
+			(xy 119.38 110.49) (xy 147.32 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8022784-509e-4b27-ab55-46e7499aede3")
+	)
+	(bus
+		(pts
+			(xy 101.6 31.75) (xy 109.22 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaf0cf21-9d04-4b05-af20-13000ae8f85e")
+	)
+	(wire
+		(pts
+			(xy 210.82 80.01) (xy 219.71 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad35b7cc-75c5-40af-b599-d76b402000f6")
+	)
+	(wire
+		(pts
+			(xy 119.38 121.92) (xy 119.38 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af277cc8-c0e2-4317-b662-892707f287cf")
+	)
+	(wire
+		(pts
+			(xy 201.93 97.79) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b219e75e-db17-4d46-bbbb-3c0afe44511a")
+	)
+	(bus
+		(pts
+			(xy 109.22 133.35) (xy 116.84 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b23a809d-3f3d-403c-990e-e36510abdcb4")
+	)
+	(wire
+		(pts
+			(xy 104.14 104.14) (xy 104.14 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2d1267d-2c21-4ec1-86e2-ae3ba534bea5")
+	)
+	(wire
+		(pts
+			(xy 111.76 85.09) (xy 111.76 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b34844ac-4d22-41e1-acf9-fae53c704ab2")
+	)
+	(bus
+		(pts
+			(xy 93.98 31.75) (xy 101.6 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb3d53d3-098d-46c6-8ad8-b813ff509f57")
+	)
+	(wire
+		(pts
+			(xy 88.9 104.14) (xy 88.9 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc8545b4-0f4f-4f97-86d7-65f298359530")
+	)
+	(bus
+		(pts
+			(xy 74.93 31.75) (xy 86.36 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfbbeacc-e3e9-464e-b856-32ddb6cca091")
+	)
+	(bus
+		(pts
+			(xy 93.98 133.35) (xy 101.6 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c00a14a4-730f-42a1-9f43-85edbf2d6b82")
+	)
+	(wire
+		(pts
+			(xy 201.93 69.85) (xy 201.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1756cf6-9956-4e51-b771-9fd86f0a1f29")
+	)
+	(bus
+		(pts
+			(xy 109.22 31.75) (xy 116.84 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3623057-a56a-4727-ab39-33b185d920a6")
+	)
+	(bus
+		(pts
+			(xy 78.74 82.55) (xy 86.36 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7dae7b8-bcef-4988-b5cc-3fdc81c177e5")
+	)
+	(wire
+		(pts
+			(xy 210.82 72.39) (xy 210.82 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c83efdb4-efcf-4822-9234-ee96e86a34ba")
+	)
+	(bus
+		(pts
+			(xy 78.74 133.35) (xy 86.36 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b0debe-9d5a-4e2d-a04f-ed47864905e3")
+	)
+	(wire
+		(pts
+			(xy 185.42 95.25) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cae17b1b-1b0f-4267-ad82-93972f3a4691")
+	)
+	(wire
+		(pts
+			(xy 111.76 157.48) (xy 111.76 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb5e6da-7425-4f96-8fc7-0e83ba102751")
+	)
+	(wire
+		(pts
+			(xy 196.85 92.71) (xy 185.42 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c8708a-8e2f-40d4-ba65-9b53ef356943")
+	)
+	(wire
+		(pts
+			(xy 201.93 105.41) (xy 201.93 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da482342-e19c-403e-a3de-7f5a8e0d7692")
+	)
+	(wire
+		(pts
+			(xy 81.28 62.23) (xy 78.74 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbea2adf-0f93-435c-9e54-2a276339ed37")
+	)
+	(bus
+		(pts
+			(xy 86.36 31.75) (xy 93.98 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dddb31bc-d887-43a5-b913-ef088f69cc25")
+	)
+	(wire
+		(pts
+			(xy 219.71 62.23) (xy 191.77 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df3e3dd3-6134-4cc4-b678-a1e17164f962")
+	)
+	(wire
+		(pts
+			(xy 96.52 55.88) (xy 96.52 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3bf34e8-3500-432b-bd3a-8a1657b0001f")
+	)
+	(wire
+		(pts
+			(xy 196.85 111.76) (xy 201.93 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5afd40e-b60d-4d78-a485-8f772af4a80b")
+	)
+	(wire
+		(pts
+			(xy 104.14 157.48) (xy 104.14 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e72f5ce9-b242-4b2d-9b00-9a0798c1a9a1")
+	)
+	(wire
+		(pts
+			(xy 104.14 135.89) (xy 104.14 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e78245c1-b11c-4c69-93f3-d5ff9c699e4e")
+	)
+	(wire
+		(pts
+			(xy 119.38 177.8) (xy 119.38 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e78ae8df-5579-4487-bae2-f6c8dbdf282d")
+	)
+	(wire
+		(pts
+			(xy 147.32 64.77) (xy 147.32 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecda4825-2183-471e-923d-f5c5e93db49b")
+	)
+	(wire
+		(pts
+			(xy 111.76 34.29) (xy 111.76 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee531309-7594-44e3-92ee-6a7b107e8ab5")
+	)
+	(wire
+		(pts
+			(xy 111.76 135.89) (xy 111.76 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2de1a77-d06e-4f40-82c5-fb66b1754059")
+	)
+	(wire
+		(pts
+			(xy 119.38 114.3) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8415efd-8db9-464c-a660-24d539fb3695")
+	)
+	(wire
+		(pts
+			(xy 196.85 105.41) (xy 196.85 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7e8ffe-a25b-4435-a15d-579c46444d9c")
+	)
+	(wire
+		(pts
+			(xy 119.38 66.04) (xy 119.38 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb47f35c-b147-4225-bf72-685cdd49035d")
+	)
+	(wire
+		(pts
+			(xy 96.52 157.48) (xy 96.52 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbfde471-deb8-4df2-86de-ec81409090ec")
+	)
+	(wire
+		(pts
+			(xy 119.38 62.23) (xy 191.77 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdaea6d4-dd2e-4ae9-927a-e5d2cb26fb6f")
+	)
+	(label "B"
+		(at 184.15 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "08577050-978f-4e7a-bbd1-f5e3d2c97d59")
+	)
+	(label "R1"
+		(at 96.52 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "098dc63e-db87-46c9-b55f-5979591c7412")
+	)
+	(label "G1"
+		(at 88.9 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1918b8bc-7a70-4778-a221-f05fb03975d2")
+	)
+	(label "R"
+		(at 184.15 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3c596a5f-2e54-42ad-a296-1b41dcba70f3")
+	)
+	(label "R2"
+		(at 104.14 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5343a781-5301-4a8c-a86e-f2b020084dc1")
+	)
+	(label "R3"
+		(at 111.76 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5927e3b1-df24-4c1b-af91-cc602f9c3e19")
+	)
+	(label "G0"
+		(at 81.28 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "641647ec-d158-46bd-9156-6a6b74acc2c4")
+	)
+	(label "B1"
+		(at 96.52 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65164b8f-a672-4ae7-99c8-4adee03b3277")
+	)
+	(label "B4"
+		(at 119.38 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69a980fb-80f1-454a-8d43-b85c9f8241fe")
+	)
+	(label "G2"
+		(at 96.52 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d7806e0-9fbd-4f49-b8ab-a195014b88fd")
+	)
+	(label "G"
+		(at 184.15 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8027bd55-f472-4286-8afd-ec4f397917d1")
+	)
+	(label "B"
+		(at 125.73 163.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81b4385c-8e02-4f8f-941d-ed2eeb005eb2")
+	)
+	(label "B[0..4]"
+		(at 82.55 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8916f8e2-10c6-4e24-b880-ea5d1c8ecffe")
+	)
+	(label "B2"
+		(at 104.14 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "94859979-d313-4356-9f8c-f9e6d2afc29b")
+	)
+	(label "G5"
+		(at 119.38 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "958d5a1b-8b07-40d9-bfc3-cb6b738f5f9c")
+	)
+	(label "R0"
+		(at 88.9 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97feba16-6611-4290-979d-7fc73927244f")
+	)
+	(label "R4"
+		(at 119.38 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aac693f1-0419-411e-92a5-f2b5593ae524")
+	)
+	(label "R"
+		(at 125.73 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "abe6cf1f-1cec-43fb-9130-e00ab2ad279a")
+	)
+	(label "G[0..5]"
+		(at 78.74 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb432665-ab01-4637-8784-9d0e8117ebf8")
+	)
+	(label "R[0..4]"
+		(at 77.47 31.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d212c9c4-900c-4c82-b567-d3340f199ce3")
+	)
+	(label "G"
+		(at 125.73 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e1d195c0-fcbf-41fa-92af-c20f69955722")
+	)
+	(label "B3"
+		(at 111.76 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e247d965-c6a2-449e-a0fa-13bb0c22bce9")
+	)
+	(label "B0"
+		(at 88.9 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eee40df5-08ac-47f8-a769-6dfff225afd0")
+	)
+	(label "G4"
+		(at 111.76 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "efb24e75-80fc-46ae-bd63-57529500bebf")
+	)
+	(label "G3"
+		(at 104.14 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa41a47c-f6d1-40a8-96e3-3698c8167fd0")
+	)
+	(global_label "GND"
+		(shape input)
+		(at 187.96 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c750802-486b-4bde-8479-839cda7dffe4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.1043 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 115.57 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "63268370-f739-4404-b4b2-415b85d87ef5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.7143 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 71.12 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7daa151c-a2f7-4a5e-99ff-54c1b2fd7296")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.2643 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 78.74 163.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8cd115fb-8257-4b57-bfe4-40f66dd91af0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.8843 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 115.57 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7be5964-71cc-4e8d-b4b3-7af45d0dbb44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.7143 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 115.57 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbf29850-f54d-4ddb-8463-0856f9dd1319")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.7143 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 187.96 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c4dfe5af-a90d-49ff-8b37-200efc1daf42")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.1043 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 78.74 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c773b9f5-8fad-4485-a445-f5eb0fcf0ab3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.8843 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(hierarchical_label "RED"
+		(shape input)
+		(at 74.93 31.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2ee32eee-e1fc-438f-8100-b0a209921b0c")
+	)
+	(hierarchical_label "HSYNC"
+		(shape input)
+		(at 185.42 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51c176c3-5a09-411f-8f94-c09389124177")
+	)
+	(hierarchical_label "BLUE"
+		(shape input)
+		(at 78.74 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96246fe4-b984-4199-9b40-80d1949a5c20")
+	)
+	(hierarchical_label "VSYNC"
+		(shape input)
+		(at 185.42 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a2302bdb-4c92-4974-8e32-dfd5edbcfd67")
+	)
+	(hierarchical_label "GREEN"
+		(shape input)
+		(at 74.93 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "be4c876f-6235-40ef-ae49-c16fa0a941a8")
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "017576d0-eab6-4b29-ade8-ec07347fb7f0")
+		(property "Reference" "R20"
+			(at 117.094 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 121.666 48.768 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 52.07 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 52.07 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72ea5c14-2981-4f08-9e1f-28581ded5314")
+		)
+		(pin "2"
+			(uuid "dd7ae5cb-87e5-4e2a-bd5b-19863db960ce")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 77.47 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "029daa47-761e-4c3b-9922-a6f47ef456dd")
+		(property "Reference" "R3"
+			(at 77.47 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 77.47 106.426 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 77.47 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "efb30594-bd76-4039-9bbd-8a668d8d8208")
+		)
+		(pin "2"
+			(uuid "e1f917a1-de3c-4896-8887-ecaded11e2d6")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:GG0402052R542P")
+		(at 196.85 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09a956e2-5d68-45f4-b32f-980a535dff7c")
+		(property "Reference" "TVS2"
+			(at 199.39 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NA"
+			(at 199.39 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+			(at 193.7766 73.66 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 73.025 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 196.85 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1888b2c8-4d8a-4fde-a0e9-aa1e85a9e04e")
+		)
+		(pin "2"
+			(uuid "70e883f5-737a-4ace-96b9-6896bb2e4ef5")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "TVS2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 81.28 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1198107d-6491-4fc3-aa40-46f48d761b38")
+		(property "Reference" "R5"
+			(at 78.994 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 83.566 96.774 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 83.058 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93dc5359-dc5b-4b84-82cd-bbc0645ecc65")
+		)
+		(pin "2"
+			(uuid "a632873e-1e4a-40ba-b261-26e6db3c65e5")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 111.76 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "183aae6f-b14c-4fdc-b4d6-2906b90eb5d0")
+		(property "Reference" "R33"
+			(at 109.474 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 114.046 150.368 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 113.538 153.67 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 153.67 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45c833a6-f349-49fa-89b9-974ceba2d6f5")
+		)
+		(pin "2"
+			(uuid "7d27814e-9b53-46df-aa64-66e098a175bf")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 96.52 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1b57dd0f-2ee3-40ea-9f2a-d8799aadc1fa")
+		(property "Reference" "R8"
+			(at 94.234 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 98.806 48.514 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 98.298 52.07 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 52.07 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d8bd6ec-66a9-4597-b93f-cd7595eb1edc")
+		)
+		(pin "2"
+			(uuid "695cee98-d85d-46f7-abd8-e12df61ec701")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 85.09 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b79972b-9826-4591-85e8-3c758a4fc99c")
+		(property "Reference" "R26"
+			(at 85.09 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 85.09 159.766 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 85.09 165.608 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 163.83 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3051dbdc-745f-4a2c-8097-c4d6539714d4")
+		)
+		(pin "2"
+			(uuid "d28ffaef-a5ab-45ce-be3a-a582542aea77")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 85.09 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33c3fd18-561a-40a0-897b-c4bc6abb8880")
+		(property "Reference" "R2"
+			(at 85.09 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 85.09 58.166 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 85.09 64.008 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 62.23 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38f97f4e-4a6b-4a47-990e-6f3c15606bbe")
+		)
+		(pin "2"
+			(uuid "dee62c69-314c-426e-a829-47481d1f23e2")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 107.95 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3777657f-e961-4fbb-be5e-738ecf5c64f9")
+		(property "Reference" "R19"
+			(at 107.95 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 107.696 106.426 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 107.95 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 107.95 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d15b478-fbdf-4840-8146-61fa02e9efd6")
+		)
+		(pin "2"
+			(uuid "26e32ba1-073a-4a23-a74c-ca53369cb344")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 100.33 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f09fd3e-6a83-4e30-a3d1-f910a694bcbb")
+		(property "Reference" "R10"
+			(at 100.33 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 100.33 58.166 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 100.33 64.008 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 62.23 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63d8285c-ed87-499f-8783-fc7918d09971")
+		)
+		(pin "2"
+			(uuid "da2c69d6-3217-4fb8-9eb2-dc429a9e122b")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 115.57 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "413424f1-c451-4c18-a1ae-961d3c6989ef")
+		(property "Reference" "R18"
+			(at 115.57 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 115.316 58.166 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 115.57 64.008 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 62.23 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a8504f4-7fe1-48e7-bd07-10da27a015b8")
+		)
+		(pin "2"
+			(uuid "f064c448-a8c2-403f-a0a1-c2d4d2546f2b")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 96.52 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "47fe378a-b15c-4eb4-a9cb-1b42b3490971")
+		(property "Reference" "R13"
+			(at 94.234 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 98.806 97.028 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 98.298 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b07d6165-510a-4d11-ad06-a0be9cefc699")
+		)
+		(pin "2"
+			(uuid "a5e5b2c9-4c29-4829-bc0a-4c597ee56385")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 92.71 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5084ab01-a8b4-4ad9-b3ca-de71f5247a2f")
+		(property "Reference" "R6"
+			(at 92.71 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 92.71 64.008 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 62.23 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ec7e382-e00a-469b-a4ff-892e3638490c")
+		)
+		(pin "2"
+			(uuid "573f54aa-159f-44e1-a5a2-3a766ffa10fc")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 92.71 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5162b52a-e7e6-4327-9bc0-a0fa9e64c11a")
+		(property "Reference" "R28"
+			(at 92.71 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 92.71 166.37 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 92.71 165.608 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 163.83 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13de6b78-1658-4cfb-94e8-2e47670b8d74")
+		)
+		(pin "2"
+			(uuid "624f8af8-9b7e-4132-8fdb-d56f2798e062")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5311d2d6-67b6-4e48-8b7a-3e6654f2cee2")
+		(property "Reference" "R25"
+			(at 117.094 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 121.92 117.856 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 118.11 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 118.11 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d13ace3-a0a7-4e9d-9e32-6c9bbb9a062b")
+		)
+		(pin "2"
+			(uuid "f41520d1-d54e-47d6-82ed-72754f221a14")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 88.9 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55ae6c4a-b023-4c41-9d1f-f65b41631fc0")
+		(property "Reference" "R27"
+			(at 86.614 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 91.186 150.114 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 90.678 153.67 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 153.67 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "757dbf97-d771-441c-aea4-a6932665bb8e")
+		)
+		(pin "2"
+			(uuid "9a104ca6-dd5b-491b-b02f-6b57b6f9dd1d")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 107.95 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a4b1e47-e8c5-48ee-9879-ce6d908cdcf8")
+		(property "Reference" "R32"
+			(at 107.95 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 107.95 166.37 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 107.95 165.608 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 163.83 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 107.95 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25ec4cad-111d-4213-9da9-f2f2e25cfd45")
+		)
+		(pin "2"
+			(uuid "3620e401-7762-4520-84f5-4241e6288db1")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 115.57 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ca55adb-0404-434d-af65-2c7ebcdee35d")
+		(property "Reference" "R34"
+			(at 115.57 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 115.316 159.766 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 115.57 165.608 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 163.83 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02666bf8-a6fb-45b9-b8c2-c80d434886c1")
+		)
+		(pin "2"
+			(uuid "0eef67de-fc0a-4c04-901d-f9c88a4d0dfe")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5cc6c04e-102a-4d2a-9ed8-2e3b6e963e64")
+		(property "Reference" "R24"
+			(at 117.094 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 121.666 97.028 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c86c5972-a7f7-4d2d-a811-e28a5eefa250")
+		)
+		(pin "2"
+			(uuid "a18a442d-01f7-49d6-8f9a-d33542091517")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:VGA15-F(CD0515S21J0)")
+		(at 227.33 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ebdec64-5055-495f-acf7-050101e633a8")
+		(property "Reference" "VGA1"
+			(at 224.79 57.785 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VGA15"
+			(at 224.155 107.315 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "OLIMEX_Connectors-FP:VGA15-F(CD0515S21J0)"
+			(at 227.33 80.01 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 80.01 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0532d8f1-195b-48e2-a2fa-80041d0b073a")
+		)
+		(pin "10"
+			(uuid "d8de41b3-5b30-4390-b164-ce2f8e94bbaf")
+		)
+		(pin "11"
+			(uuid "9481074d-eef7-4a07-8f66-33de3e6579e6")
+		)
+		(pin "12"
+			(uuid "771cb0f0-8979-49bb-9405-98975019d303")
+		)
+		(pin "13"
+			(uuid "c9e8c4b1-0800-4286-bfa4-d38dfd137c61")
+		)
+		(pin "14"
+			(uuid "3ee9f5c8-0c6f-44eb-b47e-7f23739d41de")
+		)
+		(pin "15"
+			(uuid "40817c90-e429-4dd1-8a2d-fd1a8d6c85c6")
+		)
+		(pin "16"
+			(uuid "3986deba-8834-45e1-9de4-b992be0e7c0a")
+		)
+		(pin "17"
+			(uuid "c568281b-c56b-4f3b-a4fb-768c9a917371")
+		)
+		(pin "2"
+			(uuid "adcfceb8-8ba8-4e61-a3e0-a73ef4c17e24")
+		)
+		(pin "3"
+			(uuid "59d9f4cd-2dc1-4d39-b9d8-e78c56441822")
+		)
+		(pin "4"
+			(uuid "3a635c66-6116-4599-b87a-4a10006cf0f7")
+		)
+		(pin "5"
+			(uuid "170aa267-28d1-4d9f-891b-cb9f341ce784")
+		)
+		(pin "6"
+			(uuid "6d08d042-8e55-41cb-b8c5-9047eb9b17d2")
+		)
+		(pin "7"
+			(uuid "79168b25-98c9-4607-8ddf-85a0dc2b15d0")
+		)
+		(pin "8"
+			(uuid "6ddeb551-c832-4dee-8b94-3590a99dbedd")
+		)
+		(pin "9"
+			(uuid "5143837c-90d6-46d5-b52e-0249f2144237")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "VGA1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 107.95 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "613da29e-8518-4728-9286-2e0e83d9ae96")
+		(property "Reference" "R14"
+			(at 107.95 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 107.95 64.77 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 107.95 64.008 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 62.23 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 107.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "499771e3-a2d8-432b-9433-dca824e8aab1")
+		)
+		(pin "2"
+			(uuid "4b0cb42e-c0b9-4892-b0dd-8c594a97dfad")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 115.57 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6316e1d6-dc2a-4281-a5d0-44dd7e442a36")
+		(property "Reference" "R23"
+			(at 115.57 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 115.57 113.03 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 115.57 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1666eb1b-c1bb-495a-bb3d-77c2d9516d3a")
+		)
+		(pin "2"
+			(uuid "5300e850-e3e8-4bcb-83f8-b96071eb66ce")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 96.52 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a04c732-c8d2-4ef6-99d7-24fe1ada5cb2")
+		(property "Reference" "R29"
+			(at 94.234 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 98.806 150.114 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 98.298 153.67 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 153.67 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dda5269e-2b45-43f9-874e-6062052093f3")
+		)
+		(pin "2"
+			(uuid "15086617-b51f-4b24-bef3-f557bb18dfc4")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 111.76 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7b939b84-c561-4318-b3aa-96a287e58e2b")
+		(property "Reference" "R16"
+			(at 109.474 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 114.046 48.768 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 113.538 52.07 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 52.07 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6fda50ae-ad7e-4a3d-94b1-cece0702c437")
+		)
+		(pin "2"
+			(uuid "712979a2-d2f1-4ed9-90fa-8009bf59dc7e")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:GG0402052R542P")
+		(at 191.77 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "81d0b614-b02d-4d81-a91f-f02c780f4262")
+		(property "Reference" "TVS1"
+			(at 194.31 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NA"
+			(at 194.31 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+			(at 188.6966 73.66 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 73.025 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 191.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e1618555-13a6-4470-9993-939cc2dfdb31")
+		)
+		(pin "2"
+			(uuid "c9f4845d-8f78-4f0f-87ff-6721a41e434d")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "TVS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 92.71 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "895819e1-bd9d-4ed1-ac76-153cb3fb0e01")
+		(property "Reference" "R11"
+			(at 92.71 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 92.71 106.426 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 92.71 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b4d4101f-922f-4e4a-acde-aba2b439b27d")
+		)
+		(pin "2"
+			(uuid "6ab60dfa-d508-4b64-87e8-3b12a97ca8d5")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 100.33 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90ce33e7-6172-4cae-9be7-6043f33ae8bf")
+		(property "Reference" "R30"
+			(at 100.33 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 100.33 159.766 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 100.33 165.608 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 163.83 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76c6937d-b0b3-41dd-9ce2-a394fac606b8")
+		)
+		(pin "2"
+			(uuid "792a9686-fd48-4046-b87c-ede42cb503dc")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 111.76 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "944c9586-2fce-4a37-9de6-cba0a9d86d9f")
+		(property "Reference" "R22"
+			(at 109.474 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 114.046 97.028 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 113.538 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "919cec61-1b11-4462-a1fc-f771068c3862")
+		)
+		(pin "2"
+			(uuid "d62d1952-765a-4d4c-9b1e-5a35c8c9cdf2")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 88.9 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9b76637f-7a5e-4105-b139-3fd9f8b642f9")
+		(property "Reference" "R9"
+			(at 86.614 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 91.186 96.774 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 90.678 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dfa8c425-c754-4dfb-9530-807cf49fcaac")
+		)
+		(pin "2"
+			(uuid "d7a11c08-e7bf-4a84-9c37-8094315193d3")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 171.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7e6e806-8eb9-4dc8-a26e-5bacdae88a9c")
+		(property "Reference" "R36"
+			(at 117.094 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 121.92 171.196 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 171.45 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 171.45 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b15d0fee-e5cb-42aa-a9dc-e163d5b8eb07")
+		)
+		(pin "2"
+			(uuid "e25fcbcc-2237-40a4-83a2-4c8d2b2b5ac4")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 104.14 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b37259f4-37e3-4b1b-8faa-0811eaa34bfe")
+		(property "Reference" "R12"
+			(at 101.854 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 106.426 48.768 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 105.918 52.07 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 52.07 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd33d5fd-cfcd-42c3-8150-dd8b02b6f965")
+		)
+		(pin "2"
+			(uuid "976d9b0f-7159-4e04-abfd-ecbb7ccec51e")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:GG0402052R542P")
+		(at 201.93 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2671143-aa1d-433d-9aa8-ff54e0b92c66")
+		(property "Reference" "TVS4"
+			(at 204.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NA"
+			(at 204.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+			(at 198.8566 73.66 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 201.93 73.025 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb3ae67f-148d-4f4d-98f3-8868729fddb7")
+		)
+		(pin "2"
+			(uuid "5e86fde8-fb6e-4c63-b6d6-56163f4bf21e")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "TVS4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2f9ac1f-b89d-4f2b-9a5e-3afb9bed84b8")
+		(property "Reference" "R21"
+			(at 117.094 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 121.92 69.596 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 69.85 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 69.85 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e73b365-ec36-42ae-8cd7-29805b898221")
+		)
+		(pin "2"
+			(uuid "249d4375-8af8-4d56-a259-fea370195109")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 119.38 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d15e8d1f-7d25-41bf-b401-a84ece361f31")
+		(property "Reference" "R35"
+			(at 117.094 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 121.666 150.368 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 121.158 153.67 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 153.67 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e37ef26-8b8e-49dc-8465-6c4286435aeb")
+		)
+		(pin "2"
+			(uuid "6de73e92-fbf0-47a4-89d8-4b82e7c1336b")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:GG0402052R542P")
+		(at 201.93 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d828ba5b-7478-4a3a-90a7-d5c665b77ec5")
+		(property "Reference" "TVS5"
+			(at 204.47 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NA"
+			(at 204.47 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+			(at 198.8566 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 201.93 100.965 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3fe541b-063c-45f3-9de4-61db63e0e551")
+		)
+		(pin "2"
+			(uuid "b51c9440-4611-437c-b843-9642dd3af392")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "TVS5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 85.09 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dabd6f30-5422-46ee-8867-710da726cf90")
+		(property "Reference" "R7"
+			(at 85.09 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 85.09 113.03 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 85.09 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d29a68a2-00d7-4c28-9600-6b744e21e834")
+		)
+		(pin "2"
+			(uuid "73504376-e7f0-4932-a388-fefee2282f3a")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:GG0402052R542P")
+		(at 196.85 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daf9a073-58d8-4bb1-b3d8-00fde8209ab0")
+		(property "Reference" "TVS3"
+			(at 199.39 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "NA"
+			(at 199.39 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OLIMEX_Diodes-FP:D_0402_5MIL_DWS"
+			(at 193.7766 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 100.965 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 196.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d52ee306-8029-409f-945f-5baa5a26767b")
+		)
+		(pin "2"
+			(uuid "dd570911-db84-47ef-9801-b358bb32a9f4")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "TVS3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 104.14 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df813a5c-10d7-43f1-b5b4-a4a8e0e7a671")
+		(property "Reference" "R17"
+			(at 101.854 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 106.426 97.028 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 105.918 100.33 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 100.33 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f661b43-bb44-4d6f-bc2d-96e9525cc2d1")
+		)
+		(pin "2"
+			(uuid "6a737df0-9ba1-4de4-bd76-9ad640b52c69")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 104.14 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "edd64a03-31a4-43aa-90ae-81ec5bdbf920")
+		(property "Reference" "R31"
+			(at 101.854 153.416 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 106.426 150.368 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 105.918 153.67 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 153.67 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76fcac6e-b686-4aa0-b609-f5236cc8e22e")
+		)
+		(pin "2"
+			(uuid "87da757b-7d40-4fee-8d85-c2c4b5cc270e")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 100.33 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe0f714a-c0ae-4496-aa97-76957f478ecf")
+		(property "Reference" "R15"
+			(at 100.33 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "150R/1%/0603"
+			(at 100.33 113.03 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 100.33 112.268 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8df00e37-0d3d-481d-913a-406f5f5e96cf")
+		)
+		(pin "2"
+			(uuid "b4592de0-90f5-40c8-bda6-eed23ba01630")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AgonLight2_Rev_B:R")
+		(at 88.9 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe45b324-02d1-483e-b35e-e5eff4a8af4f")
+		(property "Reference" "R4"
+			(at 86.614 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300R/1%/0603"
+			(at 91.186 48.514 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "OLIMEX_RLC-FP:R_0603_5MIL_DWS"
+			(at 90.678 52.07 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 52.07 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afd4cd12-c04f-40c7-b4c1-46fd9877f46e")
+		)
+		(pin "2"
+			(uuid "9c41f7e1-a3de-4de8-88ca-2bbcd25f3e93")
+		)
+		(instances
+			(project "HexAgon"
+				(path "/7b2afaab-4445-4e40-9301-76f41cbf1bf2/2477136f-aa73-44a8-9b84-47d881b897da"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
