@@ -1,0 +1,213 @@
+(footprint "C_0603_5MIL_DWS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
+	(tags "resistor 0603")
+	(property "Reference" "C27"
+		(at 2.54 0.127 0)
+		(layer "F.SilkS")
+		(uuid "881b7257-32c0-45e0-bcf4-673226d06fd2")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+			)
+		)
+	)
+	(property "Value" "10uF/6.3V/20%/X5R/0603"
+		(at 0.127 1.778 0)
+		(layer "F.Fab")
+		(uuid "c2cd79ba-7114-486b-9234-7cd3682e826f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c64e7e6-e2ee-43ca-97f1-7f6dcd8a4f83")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33753f19-5637-4f31-9c6e-6304758835e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.508 -0.762)
+		(end 0.508 -0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41f481b1-7129-4e7e-aa8c-d7b04b843be6")
+	)
+	(fp_line
+		(start -0.508 0.762)
+		(end 0.508 0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce9755e8-28dc-43c2-99d8-627898247ae8")
+	)
+	(fp_line
+		(start -1.651 -0.762)
+		(end -1.651 0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "42286686-a7df-4a07-9bb8-0b8c9877a3db")
+	)
+	(fp_line
+		(start -1.651 0.762)
+		(end -0.508 0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "60957798-72f6-4d4a-a691-ef2d8651b552")
+	)
+	(fp_line
+		(start -0.508 -0.762)
+		(end -1.651 -0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "48ba679f-a919-4dde-813f-6bb73e898d69")
+	)
+	(fp_line
+		(start 0.508 -0.762)
+		(end 1.651 -0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "f709737b-1062-4f12-9a3a-f0fe10563090")
+	)
+	(fp_line
+		(start 1.651 -0.762)
+		(end 1.651 0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7af50496-8b25-41b1-a1e9-91360f2ed865")
+	)
+	(fp_line
+		(start 1.651 0.762)
+		(end 0.508 0.762)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "02fa6840-64fa-438e-b939-1c6c5bfdd757")
+	)
+	(fp_line
+		(start -0.762 -0.381)
+		(end -0.762 0.381)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e870d175-e969-4914-9f03-98a2b69f4b58")
+	)
+	(fp_line
+		(start -0.762 0.381)
+		(end 0.762 0.381)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "75d5643f-2771-4ce7-86bf-1cc1362bccaa")
+	)
+	(fp_line
+		(start 0 -0.381)
+		(end -0.762 -0.381)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9379e6e7-4641-41a8-bd1a-9ee9bc625cb1")
+	)
+	(fp_line
+		(start 0.762 -0.381)
+		(end 0 -0.381)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7481ccaa-85e2-45b5-8750-9fa38c4495bc")
+	)
+	(fp_line
+		(start 0.762 0.381)
+		(end 0.762 -0.381)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf5d691b-301a-4ced-b074-641f022f9e3e")
+	)
+	(pad "1" smd rect
+		(at -0.889 0)
+		(size 1.016 1.016)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(clearance 0.0508)
+		(uuid "460c5071-49f7-4c08-b279-11788c5e7eaa")
+	)
+	(pad "2" smd rect
+		(at 0.889 0)
+		(size 1.016 1.016)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(clearance 0.0508)
+		(uuid "80f33773-e2d9-4cd0-9cf3-21f290f62ee4")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/C_0603_1608Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

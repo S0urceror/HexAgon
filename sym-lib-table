@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HexAgonLib")(type "KiCad")(uri "${KIPRJMOD}/hexagonsymbollib")(options "")(descr ""))
+  (lib (name "AgonLight2_Rev_B")(type "KiCad")(uri "${KIPRJMOD}/AgonLight2_Rev_B.kicad_sym")(options "")(descr ""))
+  (lib (name "pidac_5102A-rescue")(type "KiCad")(uri "${KIPRJMOD}/pidac_5102A-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/Espressif.kicad_sym")(options "")(descr ""))
+)
