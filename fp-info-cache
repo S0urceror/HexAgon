@@ -1,4 +1,4 @@
-24775712597217045
+24779394176298702
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58513,12 +58513,26 @@ resistor 0603
 2
 2
 HexAgonFootprintsLibrary
+LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm
+LQFP, 144 Pin (https://www.infineon.com/dgdl/Infineon-XMC4500-DS-v01_05-EN.pdf?fileId=5546d46254e133b40154e1b56cbe0123), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP Infineon-PG-LQFP-144-24 Infineon-PG-LQFP-144-26
+0
+144
+144
+HexAgonFootprintsLibrary
 L_0805_5MIL_DWS
 Resistor SMD 0805, hand soldering
 resistor 0805
 0
 2
 2
+HexAgonFootprintsLibrary
+PinHeader_2x40_P2.54mm_Vertical
+Through hole straight pin header, 2x40, 2.54mm pitch, double rows
+Through hole pin header THT 2x40 2.54mm double row
+0
+80
+80
 HexAgonFootprintsLibrary
 R_0603_5MIL_DWS
 Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)

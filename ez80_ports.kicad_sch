@@ -5881,6 +5881,7 @@
 				(font
 					(size 0.762 0.762)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -5947,6 +5948,7 @@
 				(font
 					(size 0.762 0.762)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -6358,6 +6360,7 @@
 				(font
 					(size 0.762 0.762)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -6681,6 +6684,7 @@
 				(font
 					(size 0.762 0.762)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -8185,6 +8189,7 @@
 				(font
 					(size 0.762 0.762)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
