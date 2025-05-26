@@ -6690,15 +6690,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 180.34 58.42 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 180.34 58.42 0)
 			(effects
@@ -6715,6 +6706,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM188R60J226MEA0D"
+			(at 180.34 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 180.34 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6848,6 +6855,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 30.48 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "USB4105-GF-A"
+			(at 30.48 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "0"
@@ -7092,6 +7115,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 82.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ121"
+			(at 82.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6095d03a-9fa3-480b-89e4-bc8bb58af4db")
 		)
@@ -7158,6 +7197,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 29.21 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "292303-4"
+			(at 29.21 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7233,6 +7288,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 48.26 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ512"
+			(at 48.26 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7366,15 +7437,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 187.96 152.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 187.96 152.4 0)
 			(effects
@@ -7391,6 +7453,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM188R61A105KA61J"
+			(at 187.96 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 187.96 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7459,6 +7537,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ILHB0805ER601V"
+			(at 116.84 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e3ccfc8-b09e-4399-9ff8-16dc316664bd")
 		)
@@ -7525,6 +7619,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 128.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "1N5819HW-7-F"
+			(at 128.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1766b5ec-4aab-4992-98af-fc8234fd3b7a")
 		)
@@ -7589,6 +7699,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 48.26 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ512"
+			(at 48.26 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7783,15 +7909,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 149.86 64.77 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 149.86 64.77 0)
 			(effects
@@ -7808,6 +7925,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ102"
+			(at 149.86 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 149.86 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7942,15 +8075,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 171.45 34.29 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 171.45 34.29 0)
 			(effects
@@ -7967,6 +8091,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 171.45 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 171.45 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8102,6 +8242,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "770c5f40-927b-45b0-b9fb-f0123f1d6f0b")
 		)
@@ -8167,6 +8323,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 63.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "USBLC6-2P6"
+			(at 63.5 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8247,6 +8419,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 119.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ512"
+			(at 119.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "661dc0ad-5fe4-4aa3-8be5-0d471efc7dec")
 		)
@@ -8314,6 +8502,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "BSS138"
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8576,6 +8780,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 67.31 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 67.31 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4038c208-b60a-4c4b-9762-c3825f6d9d83")
 		)
@@ -8706,6 +8926,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 223.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "BC817K-25"
+			(at 223.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8906,15 +9142,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 220.98 152.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 220.98 152.4 0)
 			(effects
@@ -8931,6 +9158,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM188R60J226MEA0D"
+			(at 220.98 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 220.98 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8999,15 +9242,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 212.09 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 212.09 83.82 0)
 			(effects
@@ -9024,6 +9258,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 212.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 212.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9093,6 +9343,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 97.79 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 97.79 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ccdb84bf-f594-4e1d-9456-686956e523e2")
 		)
@@ -9160,6 +9426,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 223.52 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "BC817K-25"
+			(at 223.52 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9361,6 +9643,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "USB4105-GF-A"
+			(at 101.6 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "0"
 			(uuid "55df331b-9b56-4c7b-a02f-7f74d03427d6")
 		)
@@ -9534,6 +9832,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 134.62 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "USBLC6-2P6"
+			(at 134.62 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9745,15 +10059,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 152.4 34.29 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 152.4 34.29 0)
 			(effects
@@ -9770,6 +10075,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "KS EELP41.22-P1R2-58-A8J8-020-R18"
+			(at 152.4 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 152.4 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9965,6 +10286,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 82.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ121"
+			(at 82.55 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af81a158-684c-467e-8417-e37c6c6c5f31")
 		)
@@ -10158,6 +10495,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 97.79 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 97.79 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b59a885d-4414-4769-9a24-289615c1b78d")
 		)
@@ -10225,6 +10578,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 77.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "BSS138"
+			(at 77.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10296,6 +10665,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 45.72 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ILHB0805ER601V"
+			(at 45.72 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "24ed21e6-6df0-4bbe-80d5-0aa9fbad800b")
 		)
@@ -10364,15 +10749,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 214.63 34.29 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 214.63 34.29 0)
 			(effects
@@ -10389,6 +10765,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM022R61A104KE01L"
+			(at 214.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 214.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10455,6 +10847,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 59.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "1N5819HW-7-F"
+			(at 59.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10586,6 +10994,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 41.91 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ILHB0805ER601V"
+			(at 41.91 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6272a44-e118-4aad-8b9f-209c63bca731")
 		)
@@ -10651,6 +11075,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 238.76 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 238.76 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10850,6 +11290,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 119.38 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ512"
+			(at 119.38 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "712541b2-077b-47dc-973b-f4a5fe08e571")
 		)
@@ -11044,15 +11500,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 180.34 52.07 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 180.34 52.07 0)
 			(effects
@@ -11069,6 +11516,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM188R72A104MA35D"
+			(at 180.34 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 180.34 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11263,6 +11726,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 262.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "B3F-3150"
+			(at 262.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11589,15 +12068,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 247.65 44.45 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 247.65 44.45 0)
 			(effects
@@ -11614,6 +12084,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "GRM022R61A104KE01L"
+			(at 247.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 247.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11681,6 +12167,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 232.41 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "TLV803EB26RDBZR"
+			(at 232.41 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11754,6 +12256,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 171.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "CP2102N-A02-GQFN24R"
+			(at 171.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11954,15 +12472,6 @@
 				(hide yes)
 			)
 		)
-		(property "Fieldname 1" "Value 1"
-			(at 212.09 101.6 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Fieldname2" "Value2"
 			(at 212.09 101.6 0)
 			(effects
@@ -11979,6 +12488,22 @@
 					(size 1.524 1.524)
 				)
 				(hide yes)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 212.09 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" ""
+			(at 212.09 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12048,6 +12573,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 204.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "TLV75533PDBVR"
+			(at 204.47 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"

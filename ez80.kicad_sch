@@ -20394,6 +20394,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e4ebdd72-1bb2-4d53-bbae-41c31fd44e40")
 		)
@@ -20458,6 +20474,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 54.61 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ104"
+			(at 54.61 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20653,6 +20685,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 300.99 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 300.99 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20910,6 +20958,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 161.29 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "AS7C34096A-10TCN"
+			(at 161.29 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21170,6 +21234,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 168.91 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 168.91 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "447ed942-6517-46f5-893d-a7920b05a6e8")
 		)
@@ -21237,6 +21317,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 274.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 274.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21434,6 +21530,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 331.47 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 331.47 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c1e26f62-d3d1-4e33-a205-c446c620ee40")
 		)
@@ -21498,6 +21610,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21629,6 +21757,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 205.74 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 205.74 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e441b10c-d0f6-4209-a308-1f43b4958715")
 		)
@@ -21698,6 +21842,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0f31f556-9e5d-4c38-9488-0fe984a0b011")
 		)
@@ -21762,6 +21922,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 203.2 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 203.2 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21834,6 +22010,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 71.12 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R71A563MA01J"
+			(at 71.12 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c869216c-b1fa-46a9-a3ed-a7169ea6a567")
 		)
@@ -21901,6 +22093,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 184.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 184.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -22163,6 +22371,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 187.96 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM185R60J106ME15J"
+			(at 187.96 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5ff32bc9-d9a7-4d9d-b82c-2383676b0533")
 		)
@@ -22196,7 +22420,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 324.866 81.28 0)
 			(effects
 				(font
@@ -22230,6 +22454,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 316.23 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 316.23 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -22331,7 +22571,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 283.21 274.574 0)
 			(effects
 				(font
@@ -22365,6 +22605,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 259.08 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -22568,6 +22824,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 243.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 243.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f9a299b0-b37e-4037-bd1d-f8bf18d0765e")
 		)
@@ -22635,6 +22907,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 331.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 331.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -22767,6 +23055,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 205.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 205.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "06b58f98-41e6-43d7-b3c9-b630b81adf49")
 		)
@@ -22836,6 +23140,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 146.05 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 146.05 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0caad80-5314-418d-96a4-7e9a6b00bde2")
 		)
@@ -22869,7 +23189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 267.97 209.804 0)
 			(effects
 				(font
@@ -22903,6 +23223,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 259.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -23040,6 +23376,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 124.46 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM022R61A104KE01L"
+			(at 124.46 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eac04566-574f-4d93-bb3b-bee1d4cbbe49")
 		)
@@ -23173,6 +23525,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 243.84 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 243.84 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -23368,6 +23736,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bd5987ea-a4f7-4e4d-b6ae-b1ec303a960f")
 		)
@@ -23435,6 +23819,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 274.32 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 274.32 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -23635,6 +24035,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 172.72 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 172.72 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a91bb8f-abe9-4326-b3e8-551941fc83de")
 		)
@@ -23668,7 +24084,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 268.478 145.288 0)
 			(effects
 				(font
@@ -23702,6 +24118,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 259.08 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -23811,7 +24243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 54.61 165.1 0)
 			(effects
 				(font
@@ -23836,6 +24268,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 54.61 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ABLS-5.000MHZ-B2-T"
+			(at 54.61 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -23908,6 +24356,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 76.2 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R71H271KA01J"
+			(at 76.2 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a35b6fd1-2c59-4545-aada-7e9791a081b8")
 		)
@@ -23974,6 +24438,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 205.74 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 205.74 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ebac0c51-852d-4f9f-9525-852f35447aed")
 		)
@@ -24038,6 +24518,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ472"
+			(at 116.84 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -24296,6 +24792,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c8246585-caa4-4e85-ba31-3e540ff9253e")
 		)
@@ -24360,6 +24872,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 203.2 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 203.2 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -24428,6 +24956,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "03f4ff7c-c3cc-4cf8-8825-d0ae1e8e3048")
 		)
@@ -24462,7 +25006,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "EZ80F91"
 			(at 183.8041 44.45 0)
 			(effects
 				(font
@@ -24471,7 +25015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm"
+		(property "Footprint" "HexAgonFootprintsLibrary:LQFP-144-1EP_20x20mm_P0.5mm_EP6.5x6.5mm"
 			(at 156.21 40.64 0)
 			(effects
 				(font
@@ -24496,6 +25040,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 152.4 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "EZ80F91AZA50EK"
+			(at 152.4 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -24965,7 +25525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 325.12 241.554 0)
 			(effects
 				(font
@@ -24999,6 +25559,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 316.23 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -25197,6 +25773,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 196.85 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM022R61A104KE01L"
+			(at 196.85 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -25518,6 +26110,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 60.96 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 60.96 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c728120e-f81b-4b6b-bd30-b865e1ea92b0")
 		)
@@ -25678,7 +26286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 267.716 80.264 0)
 			(effects
 				(font
@@ -25712,6 +26320,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 259.08 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -25884,7 +26508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x40_P2.54mm_Vertical"
+		(property "Footprint" "HexAgonFootprintsLibrary:PinHeader_2x40_P2.54mm_Vertical"
 			(at 370.84 92.71 0)
 			(effects
 				(font
@@ -25909,6 +26533,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 370.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "9-146276-0"
+			(at 370.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "20"
@@ -26214,6 +26854,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 180.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 180.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2336b207-2fb8-4643-af4e-55c63c2127bd")
 		)
@@ -26281,6 +26937,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 176.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 176.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -26441,7 +27113,7 @@
 				)
 			)
 		)
-		(property "Value" "499R/0603"
+		(property "Value" "499R/1%/0603"
 			(at 78.74 169.418 0)
 			(effects
 				(font
@@ -26473,6 +27145,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 78.74 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ERJ-UP6F4990V"
+			(at 78.74 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -26861,6 +27549,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c4c7d90-fc0c-48c2-89e5-02235eb6c144")
 		)
@@ -26927,6 +27631,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 97.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "9-146276-0"
+			(at 97.79 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -27124,6 +27844,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 149.86 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 149.86 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3f2c13af-fdce-49e2-800c-83155e29fe4e")
 		)
@@ -27193,6 +27929,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 243.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 243.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d438b72b-152a-4ffa-a285-e80066f58900")
 		)
@@ -27257,6 +28009,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 346.71 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 346.71 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -27390,6 +28158,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 59.69 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM1555C1H180JA01D"
+			(at 59.69 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -27713,6 +28497,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ472"
+			(at 116.84 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "725df8df-fead-4c80-b9e5-910f3df0b0e4")
 		)
@@ -27781,6 +28581,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 59.69 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM1555C1H220JA01J"
+			(at 59.69 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -27852,6 +28668,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 243.84 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 243.84 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "401b4d22-b39d-4e72-b0bd-c5ec060415b1")
 		)
@@ -27919,6 +28751,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 300.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 300.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28055,6 +28903,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 49.53 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM1555C1H180JA01D"
+			(at 49.53 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36803e89-9d17-45ba-ad06-04d50e42ac39")
 		)
@@ -28122,6 +28986,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28256,6 +29136,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 138.43 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 138.43 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0048ac37-222c-4f6e-92b8-8742492d084a")
 		)
@@ -28320,6 +29216,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28389,6 +29301,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 274.32 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 274.32 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28558,7 +29486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm"
+		(property "Footprint" "Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal"
 			(at 54.61 194.31 0)
 			(effects
 				(font
@@ -28583,6 +29511,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 54.61 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ab26t-32.768khz"
+			(at 54.61 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28654,6 +29598,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 300.99 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 300.99 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4db3ca38-edfc-4d89-a1eb-23886d59e27e")
 		)
@@ -28718,6 +29678,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 205.74 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 205.74 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -28912,6 +29888,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0c8aeaf-ee38-4968-87ab-6d5b6dfb9b1d")
 		)
@@ -29044,6 +30036,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cc9d64f4-16e8-440e-9017-bf82a9e186fa")
 		)
@@ -29108,6 +30116,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -29177,6 +30201,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 331.47 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 331.47 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -29307,6 +30347,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -29504,6 +30560,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 274.32 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 274.32 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f2ec4284-fe15-4e15-ac3a-14694bc95abe")
 		)
@@ -29568,6 +30640,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -29699,6 +30787,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 60.96 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 60.96 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "652a0dd8-2f12-48ea-98ef-4ccb07f1e939")
 		)
@@ -29826,6 +30930,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ103"
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -30086,6 +31206,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 153.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 153.67 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5fe07845-c6a9-4645-b072-b412c750f435")
 		)
@@ -30216,6 +31352,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 90.17 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM022R61A104KE01L"
+			(at 90.17 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "06ba5876-cd5d-45f0-829c-31a4676c5b15")
 		)
@@ -30282,6 +31434,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 106.68 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "1N5819HW-7-F"
+			(at 106.68 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ca70e37e-0837-4134-b8c9-7de0ed489012")
 		)
@@ -30315,7 +31483,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245APW"
+		(property "Value" "SN74LVC8T245"
 			(at 323.088 167.132 0)
 			(effects
 				(font
@@ -30349,6 +31517,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 316.23 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "595-SN74LVC8T245PWR"
+			(at 316.23 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -30481,6 +31665,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -30678,6 +31878,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 207.01 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM185R60J106ME15J"
+			(at 207.01 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "60ba0b99-75de-4fc7-93f1-9a361f3202ba")
 		)
@@ -30812,6 +32028,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 49.53 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM1555C1H220JA01J"
+			(at 49.53 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "53281241-a084-4d58-bab3-24afa609a039")
 		)
@@ -30941,6 +32173,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4357dd73-f5b3-4084-9a21-2999082c34a1")
 		)
@@ -31005,6 +32253,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 60.96 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ222"
+			(at 60.96 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -31139,6 +32403,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 165.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 165.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23676b30-1e7b-44e4-a74a-aeb906afe498")
 		)
@@ -31206,6 +32486,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 114.3 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM185R60J106ME15J"
+			(at 114.3 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -31472,6 +32768,22 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 161.29 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "GRM155R61A102KA01D"
+			(at 161.29 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6d5816f-5a86-4fa7-a133-2002becf5047")
 		)
@@ -31536,6 +32848,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 116.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNumber" "ESR03EZPJ330"
+			(at 116.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
