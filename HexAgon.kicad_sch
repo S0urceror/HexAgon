@@ -43,13 +43,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 101.6) (xy 160.02 101.6)
+			(xy 161.29 99.06) (xy 170.18 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "017f9e53-9caa-4a4b-8914-6785e5b79406")
+		(uuid "0608fb7a-6f53-4f8d-a766-302b914cdea4")
 	)
 	(wire
 		(pts
@@ -70,16 +70,6 @@
 			(type default)
 		)
 		(uuid "0d0b2d11-92d3-4028-8bc6-d033093403a4")
-	)
-	(wire
-		(pts
-			(xy 170.18 99.06) (xy 161.29 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0df01409-0e33-4496-86a6-45ae146a4eb9")
 	)
 	(wire
 		(pts
@@ -230,6 +220,16 @@
 			(type default)
 		)
 		(uuid "506ec316-df73-492a-b8d0-31d7dc4ddf1e")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 170.18 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52d340bf-8ff7-4dd0-8f84-4ca621f4a210")
 	)
 	(bus
 		(pts
@@ -906,7 +906,7 @@
 			)
 		)
 		(pin "ESP_SPI_MOSI" input
-			(at 170.18 101.6 180)
+			(at 170.18 99.06 180)
 			(uuid "7c005f2a-11b8-47c3-9218-ce1d446b14fe")
 			(effects
 				(font
@@ -916,7 +916,7 @@
 			)
 		)
 		(pin "ESP_SPI_MISO" input
-			(at 170.18 99.06 180)
+			(at 170.18 101.6 180)
 			(uuid "16cd2349-2aa7-4ab2-b241-7d6a9cd06620")
 			(effects
 				(font
