@@ -49710,7 +49710,7 @@
 		(property "Reference" "MICRO_SD1"
 			(at -0.418 9.68 90)
 			(layer "F.SilkS")
-			(uuid "675227b8-11b3-4af3-b012-ab88e3d58d38")
+			(uuid "b98f6a13-e95d-497a-b5c9-3b1c18fdbf65")
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -49722,7 +49722,7 @@
 			(at -10.6807 -1.651 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "97ea6c27-c193-4e81-b908-56b0687ca9e7")
+			(uuid "9c1a3912-8ac5-44fd-ad4a-151528543016")
 			(effects
 				(font
 					(size 1.1 1.1)
@@ -49734,7 +49734,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b3caff7-e6b0-4037-9a6d-83f99ff35aa7")
+			(uuid "9563ede0-9702-4f6e-abef-fa8f376ecc5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49746,7 +49746,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eec38868-9b20-4c19-b3f2-aae8a6839adc")
+			(uuid "6726e785-67b5-4743-b3ed-af6bd96ad34d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49767,7 +49767,7 @@
 				)
 			)
 		)
-		(property "MfgNumber" "DM3D-SF(41)"
+		(property "MfgNumber" "TFC-WPAPR-08-LF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
